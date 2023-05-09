@@ -727,7 +727,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <text x="163.576" y="24.892" size="5.08" layer="94">NINTENDO 3DS USB-C</text>
 <text x="163.576" y="12.192" size="5.08" layer="94">https://giltesa.com</text>
 <text x="243.586" y="6.35" size="2.54" layer="94">V1.1</text>
-<text x="104.14" y="81.28" size="1.778" layer="94">This board must be made with a thickness of 1 mm</text>
+<text x="104.14" y="78.74" size="1.778" layer="94">This board must be made with a thickness of 1 mm</text>
 <text x="109.22" y="102.87" size="1.778" layer="96" align="center-left">(POWER ONLY)</text>
 </plain>
 <instances>
