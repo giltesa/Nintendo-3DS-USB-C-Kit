@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="1" unitdist="mm" unit="mm" style="lines" multiple="1" display="yes" altdistance="0.025" altunitdist="inch" altunit="inch"/>
+<grid distance="39.370079" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="0.025" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -10285,14 +10285,14 @@
 <vertex x="4.318" y="4.953"/>
 </polygon>
 <text x="0" y="1.778" size="0.9144" layer="22" font="vector" ratio="16" rot="SMR0" align="center">V1.1</text>
-<wire x1="5.9055" y1="3.683" x2="6.2865" y2="3.683" width="0.2032" layer="21"/>
-<wire x1="6.096" y1="3.4925" x2="6.096" y2="3.8735" width="0.2032" layer="21"/>
-<wire x1="-3.429" y1="1.778" x2="-3.429" y2="0.889" width="0.381" layer="21"/>
-<wire x1="3.429" y1="0.889" x2="3.429" y2="1.778" width="0.381" layer="21"/>
-<wire x1="1.0795" y1="0.8128" x2="1.4605" y2="0.8128" width="0.2032" layer="21"/>
-<wire x1="1.27" y1="0.6223" x2="1.27" y2="1.0033" width="0.2032" layer="21"/>
-<wire x1="-3.429" y1="0.889" x2="0.508" y2="0.889" width="0.381" layer="21"/>
-<wire x1="2.032" y1="0.889" x2="3.429" y2="0.889" width="0.381" layer="21"/>
+<wire x1="5.9055" y1="3.683" x2="6.2865" y2="3.683" width="0.127" layer="21"/>
+<wire x1="6.096" y1="3.4925" x2="6.096" y2="3.8735" width="0.127" layer="21"/>
+<wire x1="-3.429" y1="1.778" x2="-3.429" y2="0.889" width="0.254" layer="21"/>
+<wire x1="3.429" y1="0.889" x2="3.429" y2="1.778" width="0.254" layer="21"/>
+<wire x1="1.0795" y1="0.8128" x2="1.4605" y2="0.8128" width="0.127" layer="21"/>
+<wire x1="1.27" y1="0.6223" x2="1.27" y2="1.0033" width="0.127" layer="21"/>
+<wire x1="-3.429" y1="0.889" x2="0.508" y2="0.889" width="0.254" layer="21"/>
+<wire x1="2.032" y1="0.889" x2="3.429" y2="0.889" width="0.254" layer="21"/>
 </plain>
 <libraries>
 <library name=",giltesa">
