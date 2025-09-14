@@ -1,0 +1,5 @@
+![Nintendo-3DS-USB-C-Kit](https://raw.githubusercontent.com/giltesa/Nintendo-3DS-USB-C-Kit/master/4.%20Photos/Nintendo3DS-1.jpg)
+![Nintendo-3DS-USB-C-Kit](https://raw.githubusercontent.com/giltesa/Nintendo-3DS-USB-C-Kit/master/4.%20Photos/Nintendo3DS-2.jpg)
+![Nintendo-3DS-USB-C-Kit](https://raw.githubusercontent.com/giltesa/Nintendo-3DS-USB-C-Kit/master/4.%20Photos/Nintendo3DS-3.jpg)
+![Nintendo-3DS-USB-C-Kit](https://raw.githubusercontent.com/giltesa/Nintendo-3DS-USB-C-Kit/master/4.%20Photos/Nintendo3DS-4.jpg)
+![Nintendo-3DS-USB-C-Kit](https://raw.githubusercontent.com/giltesa/Nintendo-3DS-USB-C-Kit/master/4.%20Photos/Nintendo3DS-5.jpg)
